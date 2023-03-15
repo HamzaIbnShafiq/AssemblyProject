@@ -8,3 +8,5 @@ This is my Assembly language semester project which I made in university. It is 
  After both cases user will be asked if they want to continue, if yes they will continue with the game and in other case program will exit.
  
  Here we have used jumps, procedures, loops and a method to store a random number in bl register.
+
+This project was made on emulator 8086 or EMU8086.
